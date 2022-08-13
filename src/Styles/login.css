@@ -1,0 +1,31 @@
+.main {
+    padding: 5px;
+    width: 100%;
+    height: auto;
+    background-color: lightgray;
+}
+
+.inp {
+    width: 97%;
+    height: 30px;
+}
+
+.list {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    list-style: none;
+    max-height: 210px;
+    overflow: auto;
+}
+
+.li {
+    width: 90;
+    margin: 2px;
+    padding: 5px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
