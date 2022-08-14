@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feedback-registration-site/static/css/main.cf3b9d4c.css",
+    "main.js": "/feedback-registration-site/static/js/main.1407c988.js",
+    "static/js/787.576a81ba.chunk.js": "/feedback-registration-site/static/js/787.576a81ba.chunk.js",
+    "index.html": "/feedback-registration-site/index.html",
+    "main.cf3b9d4c.css.map": "/feedback-registration-site/static/css/main.cf3b9d4c.css.map",
+    "main.1407c988.js.map": "/feedback-registration-site/static/js/main.1407c988.js.map",
+    "787.576a81ba.chunk.js.map": "/feedback-registration-site/static/js/787.576a81ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3b9d4c.css",
+    "static/js/main.1407c988.js"
+  ]
+}
